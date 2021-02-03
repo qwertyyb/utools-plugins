@@ -1,0 +1,16 @@
+{
+	"pluginName": "增强剪切板",
+	"description": "增强剪切板",
+	"author": "qwetyyb",
+	"version": "0.0.1",
+	"preload": "preload.js",
+  "logo": "logo.png",
+  "main": "./views/index.html",
+	"features": [
+		{
+		  "code": "cp",
+		  "explain": "剪切板",
+			"cmds":["cp", "clipboard"]
+		}
+	]
+}

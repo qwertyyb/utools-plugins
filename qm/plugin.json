@@ -1,0 +1,15 @@
+{
+	"pluginName": "QQ音乐控制",
+	"description": "控制QQ音乐",
+	"author": "qwetyyb",
+	"version": "0.0.1",
+	"preload": "preload.js",
+	"logo": "logo.png",
+	"features": [
+		{
+		  "code": "qm",
+		  "explain": "QQ音乐控制",
+			"cmds":["qm", "qqmusic"]
+		}
+	]
+}
